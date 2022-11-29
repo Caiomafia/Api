@@ -176,7 +176,7 @@ img{
 /*===== HOME =====*/
 .home{
     position: relative;
-    background-color: var(--first-color);
+    background-color: var(--white-color);
     overflow: hidden;
     
     &__container{
@@ -398,7 +398,7 @@ img{
 /* For small devices */
 @media screen and (max-width: 320px) {
     .home__img{
-        width: 230px;
+        width: 250px;
     }
 }
 

@@ -196,7 +196,7 @@ img{
 }
 .home__scroll{
     align-self: flex-end;
-    padding-bottom: var(--mb-4);
+    padding-bottom: var(--mb-4);''
 }
 .home__scroll-link{
     writing-mode: vertical-lr;

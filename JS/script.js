@@ -5,7 +5,16 @@ let status = document.getElementById('status');
 let  attempt = document.getElementById('attemp');
 let result = document.getElementById('result');
 
-const 
+const Guess = {
+    max:10,
+    attemptNumber:0,
+    NumberDrawn:function randomValue(){
+        return Math.round(Math.random() * this.max);
+    }
+
+};
+
+let numberDrawn = Guess.numberDrawn();
 
 
 
@@ -24,3 +33,5 @@ function restar(){
 function clear(){
     document.querySelector('#kick').value = '';
 }
+
+function updateAttempt()

@@ -1,8 +1,7 @@
-# Portfolio Ativo
+# Projeto em construção 
 
 
-Um projeto que utiliza algumas Apis , que tem como objetivo ver o clima da cidade que foi inserida no submit <br>
-para acessar o projeto [Link](https://caiomafia.github.io/PortfolioAtivo/)
+Um projeto que utiliza algumas Apis [Link](https://caiomafia.github.io/PortfolioAtivo/)
 
 
 ## 🚀 Começando
@@ -11,9 +10,9 @@ para acessar o projeto [Link](https://caiomafia.github.io/PortfolioAtivo/)
 ## 🛠️ Construído com
 
 
-* [Javascript]() - é uma linguagem de programação
-* [CSS]() - é um mecanismo para adicionar estilo a um documento web
-* [HTML]() - é uma linguagem de marcação utilizada na construção de páginas na Web
+* [Javascript]() - 
+* [CSS]() - 
+* [HTML]() 
 
 
 

@@ -34,6 +34,6 @@ const createKeyboardRow = (keys, keysboardRow) =>{
     var buttonElement = document.createElement("button")
     buttonElement.textContent = key
     buttonElement.setAttribute("id" , key)
-buttonElement.addEventListener("click" , () => {console.log("TECLA: key) })
+buttonElement.addEventListener("click" , () => {console.log("TECLA: ")columnske })
 })
 

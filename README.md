@@ -13,7 +13,7 @@ Bem-vindo ao Letreco, um jogo de palavras simples e divertido! Neste jogo, você
 
 ## Teste
 
-![Alt Text](url_do_gif)
+<img src = "css/Letreco.gif">
 
 
 

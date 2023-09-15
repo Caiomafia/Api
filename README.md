@@ -2,7 +2,7 @@
 
 # Letreco - Jogo de Palavras
 
-Bem-vindo ao Letreco, um jogo de palavras simples e divertido! Neste jogo, você deve acertar cada letrar de uma determinada palavra .
+Bem-vindo ao Letreco, um jogo de palavras simples e divertido! Neste jogo, você deve acertar cada letra de uma determinada palavra .
 
 ## Como jogar
 
